@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LuckyBoyDE
+- 👀 I’m interested in Data Science, Mobile Applications, Maker-Projects
+- 🌱 I’m currently learning Scala(Flink)
+- 💞️ I’m looking to collaborate on Data Science, Web-Apps/Frameworks and Battery Systems
+- 📫 You can't reach me
